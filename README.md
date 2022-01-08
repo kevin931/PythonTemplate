@@ -23,7 +23,7 @@ Duh! You will need a relatively modern (I'm talking 3.7 and up) althought the ``
 I use ``sphinx`` and ``readthedocs`` for documentation! You will need to install the following packages:
 
 ```
-sphinx >= 4
+sphinx
 sphinx-rtd-theme
 sphinx-git
 sphinxcontrib-autoprogram
