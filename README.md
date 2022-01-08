@@ -60,22 +60,37 @@ I recommend you look through [this guide](https://docs.readthedocs.io/en/stable/
 
 ### What does documentation look like?
 
-Here is the link to how this [repository's documentation]()
+Here is the link to how this [repository's documentation](pythontemplateproject.readthedocs.io)
 
 ### How do I build the documentation locally?
 
-Easy!
+Easy! [Look here!](https://pythontemplateproject.readthedocs.io/en/latest/change/build.html)
 
-```shell
-cd docs
-make html
-```
+
+## Unit Tests
+
+[Here is a tutorial](https://pythontemplateproject.readthedocs.io/en/latest/change/build.html) on how to run tests! You may
+also want to look into ``pytest`` for more details!
 
 ## What do I need to change?
 
-1. Change the ``PythonTemplate`` directory to your project name!
-2. Put in your own package's details in ``setup.py``.
-3. Set up the documentation with ``sphinx`` as documented above. 
-4. Go through the documentation in the ``docs`` directory and add and change accordingly.
-5. Write your codes, tests, docs, ect!
+You will need to change a number of things! Don't panic. They're easy!
+
+### Directory and Python
+
+- Change the ``PythonTemplate`` directory to your project name!
+- Put in your own package's details in ``setup.py``.
+
+### External Services
+
+- Create a public GitHub Repo
+- Set up documentation at [ReadTheDocs](https://readthedocs.org/) by linking your repository
+- Register and link your GitHub account at CodeCov for coverage statistics
+
+### Documentation
+- Set up the documentation with ``sphinx`` as documented above. 
+- Go through the documentation in the ``docs`` directory and add and change accordingly.
+
+### GitHub Actions
+- Change ``line 27`` in ``.github/workflows/ci.yaml`` to your own package name
 
