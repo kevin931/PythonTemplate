@@ -6,7 +6,7 @@ is a skeleton project to kickstart (or Press Button Start) your next Python Proj
 horizon! Simply use the project without worrying about anything else!
 
 For documentation and unittesting, you don't have to use the same framework as I'm using. If
-you don't like it, leave parts of the folder out! No worry: I won't be offendeds!
+you don't like it, leave parts of the folder out! No worry: I won't be offended!
 
 ## Packages You Will Need
 
@@ -15,7 +15,7 @@ you can use whatever virtual environment framework you want!
 
 ### Python
 
-Duh! You will need a relatively modern (I'm talking 3.7 and up) althought the ``setup.py`` specifies
+Duh! You will need a relatively modern (I'm talking 3.7 and up) although the ``setup.py`` specifies
 3.9.
 
 ### For Documentation
@@ -60,7 +60,7 @@ I recommend you look through [this guide](https://docs.readthedocs.io/en/stable/
 
 ### What does documentation look like?
 
-Here is the link to how this [repository's documentation](pythontemplateproject.readthedocs.io)
+Here is the link to our [repository's documentation](https://pythontemplateproject.readthedocs.io)
 
 ### How do I build the documentation locally?
 
