@@ -1,9 +1,12 @@
+################
 Changelog
-============
+################
 
 Here are the most recent releases and changes. Currently, we're still under developmet.
 Therefore, we don't have any official releases. However, check out our git history to see what we're
 doing!
+
+---------------------
 
 Latest Release
 ---------------

@@ -1,5 +1,6 @@
+##################
 Recent Changes
-===============
+##################
 
 Here we document the most recent changes to the project.
 

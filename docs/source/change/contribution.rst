@@ -1,6 +1,6 @@
-========================
+########################
 Contribution Guideline
-========================
+########################
 
 We're thrilled that you're here! There is nothing better than your enthusiam to help us
 grow, fix, or simply start new discussions! Here, you will find a few guidelines on what
